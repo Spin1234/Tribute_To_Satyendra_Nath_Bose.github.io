@@ -1,4 +1,4 @@
-# Tribute_To_Satyendra_Nath_Bose.github.io
+# Tribute To Satyendra Nath Bose
 
 I have made a tribute page of the great Physicist **Satyendra Nath Bose**
 
